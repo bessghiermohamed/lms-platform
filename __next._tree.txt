@@ -1,0 +1,2 @@
+:HL["/lms-platform/_next/static/chunks/ac0ada60057f6c3d.css","style"]
+0:{"buildId":"MQ60hdZqJsD4utrEZE9MG","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
