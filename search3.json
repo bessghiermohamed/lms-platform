@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://docs.moodle.org/en/Features",
+    "name": "Features - MoodleDocs",
+    "snippet": "From your dashboard see deadlines and calendar events. Dashboard ... Advanced grading Select from advanced grading methods to tailor the gradebook ...",
+    "host_name": "docs.moodle.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.moodle.org/en/Moodle_app_features",
+    "name": "Moodle app features - MoodleDocs",
+    "snippet": "See your courses at glance. Your courses are listed with easy access to contents, participants, grades and notes.",
+    "host_name": "docs.moodle.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://guides.library.brandeis.edu/gettingstarted/enhancestudentexperience",
+    "name": "Enhancing the Student Experience in Moodle - Research Guides",
+    "snippet": "Calendar: The calendar feature in Moodle consolidates important dates from all enrolled courses, including assignment due dates, quizzes, and ...",
+    "host_name": "guides.library.brandeis.edu",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=lHL8EFoz3QU",
+    "name": "Moodle Lesson 03: Dashboard Navigation - YouTube",
+    "snippet": "This video is a part of a 21-video course for beginners teaching on Moodle. If you are new to teaching on Moodle and are looking for quick ... Missing: list calendar",
+    "host_name": "www.youtube.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://flu.education/wp-content/uploads/2023/11/Guide-on-Navigating-Moodle.docx.pdf",
+    "name": "[PDF] Guide on Navigating Moodle.docx",
+    "snippet": "Click on the Grades menu to view your performance in the specific course. Explore individual grades for quizzes and assignments, as well as the overall grade ...",
+    "host_name": "flu.education",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  }
+]
