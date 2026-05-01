@@ -2,10 +2,10 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: "export",
+  basePath: "/lms-platform",
   images: {
     unoptimized: true,
   },
-  /* config options here */
   typescript: {
     ignoreBuildErrors: true,
   },
